@@ -6,9 +6,9 @@ import java.net.Socket;
 import java.util.Scanner;
 
 public class ServerC {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         ServerSocket serverSocket;
-        Socket socket;
+        Socket socket ;
         final BufferedReader in;
         final PrintStream out;
         final Scanner scanner=new Scanner(System.in);
@@ -19,39 +19,14 @@ public class ServerC {
             out= new PrintStream(socket.getOutputStream());//gönderme
             in=new BufferedReader(new InputStreamReader(socket.getInputStream()));//gelen veriyi alma
 
-            Thread serverSubmitThread=new Thread(new Runnable() {//serverden veri yollama
-                String sentmsg;
-                public void run() {
-                    while (true){
-                         sentmsg=scanner.nextLine();
-                        if (sentmsg!=null)//null mesaj göndermez
-                            out.println(sentmsg);
-                        out.flush();
-                    }
-                }
-            });
-
-            Thread serverGetThread=new Thread(new Runnable() {//servere gelen veriyi yazdırma
-                String msg;
-                public void run() {
-                    while (true){
-                        try {
-                            msg=in.readLine();//porttan gelen veriyi okuma
-                        } catch (IOException e) {
-                            e.printStackTrace();
-                        }
-                        if(msg!=null)//null mesaj almaz
-                            System.out.println("Client :"+msg);
-
-                    }
-                }
-            });
-
-            serverSubmitThread.start();//göderme threadi start ediliyor
-            serverGetThread.start();//veri alma threadi start ediliyor
-
+            Thread thread=new Thread(new MessageThread("client",in,out,"send"));
+            Thread thread1=new Thread(new MessageThread("client",in,out,"get"));
+            thread.start();
+            thread1.start();
         }catch (IOException e){
             e.printStackTrace();
         }
+
     }
 }
+
