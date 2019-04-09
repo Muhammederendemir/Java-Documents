@@ -1,0 +1,15 @@
+                                    ---  AÇIKLAMA  ---
+
+        Bir server(sunucu) ve birden fazla client(kullanıcı) arasında mesajlaşma programı
+
+        - Aynı ağ üzerinden socketler ile aynı portlardan veri gönderilip veri alınacak
+
+        - Sunucu mesaj gönderemeyecek sadece alıp tüm kullanıcalara gönderecek
+
+        - Kullanıcılar ilk başlangıcta isimlerini gönderecekler
+
+
+                                    ---  TALİMATLAR  ---
+
+           * Her zaman ilk olarak Sunucu başlatılmalıdır.
+           * Kullancılar başladığı zaman mes

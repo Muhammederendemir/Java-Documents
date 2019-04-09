@@ -1,0 +1,23 @@
+                                    ---  AÇIKLAMA  ---
+
+        Bir server(sunucu) ve birden fazla client(kullanıcı) arasında mesajlaşma programı
+
+        - Aynı ağ üzerinden socketler ile aynı portlardan veri gönderilip veri alınacak
+
+        - Sunucu mesaj gönderemeyecek sadece alıp tüm kullanıcalara gönderecek
+
+        - Kullanıcılar ilk başlangıcta isimlerini gönderecekler
+
+
+                                    ---  TALİMATLAR  ---
+
+           * Her zaman ilk olarak Sunucu başlatılmalıdır.
+
+           * Kullancılar başladığı zaman ilk olarak kullanıcı isimlerini girmek zorundalar eğer
+           girmezler ise sunucu ile bağlantı kuramazlar ve mesaj alamazlar
+
+           * Kullanıcılar programı kapattıkları zaman sunucuda ...isimli kullancı oturumu kapatmıştır mesajı verecektir
+
+           * Kullancılar gönderdikleri mesaj icerisnde "#LIST" gönderirse aktif kullanıcıları gösteririr.
+
+           * Kullancılar gönderdikleri mesaj icerisnde "#OUT" gönderirse oturumu kapatır.
