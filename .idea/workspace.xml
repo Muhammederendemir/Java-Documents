@@ -1,36 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8552453a-23ad-4984-b43f-1c286845ec62" name="Default Changelist" comment="">
+    <list default="true" id="d1f6651a-f70b-4f48-ade3-5e6c5b61a214" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/clientServer/ClientC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/clientServer/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/clientServer/MessageImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/clientServer/MessageThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/clientServer/ServerC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/main.iml" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CollectionsExample/src/main/java/hash/LinkedHashMapExample.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -44,54 +38,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ClientServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Documents1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ClientServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Documents1" type="462c0819:PsiDirectoryNode" />
-              <item name="CollectionsExample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ClientServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Documents1" type="462c0819:PsiDirectoryNode" />
-              <item name="CollectionsExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ClientServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Documents1" type="462c0819:PsiDirectoryNode" />
-              <item name="CollectionsExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ClientServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Documents1" type="462c0819:PsiDirectoryNode" />
-              <item name="CollectionsExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ClientServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Documents1" type="462c0819:PsiDirectoryNode" />
-              <item name="CollectionsExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hash" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,21 +83,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8552453a-23ad-4984-b43f-1c286845ec62" name="Default Changelist" comment="" />
-      <created>1554932995908</created>
+      <changelist id="d1f6651a-f70b-4f48-ade3-5e6c5b61a214" name="Default Changelist" comment="" />
+      <created>1554979282230</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554932995908</updated>
-      <workItem from="1554932997379" duration="30000" />
+      <updated>1554979282230</updated>
+      <workItem from="1554979284960" duration="70000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30000" />
+    <option name="totallyTimeSpent" value="70000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
       <window_info id="Image Layers" />
@@ -141,7 +104,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2677761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" />
@@ -162,6 +125,7 @@
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="JRebel Setup Guide" visible="true" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -169,11 +133,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CollectionsExample/src/main/java/hash/LinkedHashMapExample.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
