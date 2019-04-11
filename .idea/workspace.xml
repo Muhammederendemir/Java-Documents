@@ -1,20 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1f6651a-f70b-4f48-ade3-5e6c5b61a214" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+    <list default="true" id="02ecc5d9-95ff-4085-9d2f-cc4ac1387245" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CollectionsExample/src/main/java/javaExamples/TreeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java-Documents2.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/clientServer/ClientC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/clientServer/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/clientServer/MessageImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/clientServer/MessageThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/clientServer/ServerC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractClassExample" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractClassExample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractClassExample/src/main/main5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientServer/src/main/main12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/main10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Example/src/main/main8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/src/main/main15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Example2" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Example2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/main1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/main/main13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadArraySum/src/main/main7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/ThreadEx1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/src/main/java/threads/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/src/main/java/threads/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/src/main/java/threads/Thread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/src/main/main6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/src/main/main8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/target/classes/threads/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/target/classes/threads/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/target/classes/threads/Thread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/ThreadEx2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/src/main/java/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/src/main/java/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/src/main/java/OperationImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/src/main/java/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/src/main/main2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/src/main/main4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/target/classes/META-INF/ThreadEx2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/target/classes/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/target/classes/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/target/classes/OperationImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/target/classes/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/src/main/java/operation/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/src/main/java/operation/OperationImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/src/main/java/operation/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/src/main/main14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/src/main/main20.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/ThreadEx4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/src/main/java/operation/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/src/main/java/operation/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/src/main/java/operation/Transactions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/src/main/java/operation/TransactionsImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/src/main/main12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/src/main/main9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadExample0" beforeDir="false" afterPath="$PROJECT_DIR$/Threads/ThreadExample0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads/ThreadPoolExample" beforeDir="false" afterPath="$PROJECT_DIR$/Threads/ThreadPoolExample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Varlik/src/main/main11.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,6 +101,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -45,22 +110,16 @@
               <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555022236120" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-Documents" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -78,22 +137,42 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="TreeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaExamples.TreeExample" />
+      <module name="Java-Documents2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TreeExample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d1f6651a-f70b-4f48-ade3-5e6c5b61a214" name="Default Changelist" comment="" />
-      <created>1554979282230</created>
+      <changelist id="02ecc5d9-95ff-4085-9d2f-cc4ac1387245" name="Default Changelist" comment="" />
+      <created>1555021959502</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554979282230</updated>
-      <workItem from="1554979284960" duration="70000" />
+      <updated>1555021959502</updated>
+      <workItem from="1555021960901" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70000" />
+    <option name="totallyTimeSpent" value="40000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -104,7 +183,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2677761" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" />

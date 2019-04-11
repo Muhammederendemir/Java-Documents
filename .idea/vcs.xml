@@ -4,7 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AbstractClassExample" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Inheritance/Example2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Threads/ThreadEx5" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Threads/ThreadExample0" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Threads/ThreadPoolExample" vcs="Git" />
   </component>
