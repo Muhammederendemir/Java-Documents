@@ -1,0 +1,17 @@
+
+
+                               ====  Inheritance  ====
+
+Bir sınıfın kendisine ait özellikleri ve işlevleri bir başka sınıfa aynen aktarması ya da bazı özellik
+ve işlevlerini diğer sınıfların kullanmasına izin vermesi şeklinde oluşmaktadır.
+
+Üst sınıf (Süper sınıf) özelliklerini alt sınıflarda kullanmak için extends deyimi ile kullanılırız.
+
+                                ----  Extends  ----
+
+ Herhangi bir sınıfın özelliklerini ve işlevlerini miras olarak alması için kullanılan deyimdir.
+
+                                ----  @Override ----
+
+  Herhangi bir alt sınıfa ait metotlar aynı isim, parametre ve dönüş tipi ile
+ tanımlanırsa o metotu alt sınıfta üzerine yazmış oluruz.

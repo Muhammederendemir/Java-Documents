@@ -1,0 +1,13 @@
+-- Enum hakkında bilgi edindim
+-- Enum örnekleri yaptım.
+
+
+                                   =====  ENUM  =====
+
+   Enum türleri önceden tanımlanmış sabit değerleri ifade etmede kullanılır.
+
+   Enum için yapıcı metot tanımlandığında private erişim belirleyici kullanılması zorunludur.
+   Aksi durumda derleme hatası alırız.
+
+   Enum türler dışarıdan new operatörü ile türetilemezler. Enumlar içinde yazılan yapıcı metotlar
+   sadece enum sabitleri tarafından çağırılabilirler.

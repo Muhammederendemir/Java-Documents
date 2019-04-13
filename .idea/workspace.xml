@@ -2,92 +2,147 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02ecc5d9-95ff-4085-9d2f-cc4ac1387245" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CollectionsExample/src/main/java/javaExamples/TreeExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java-Documents2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractClassExample/docs/comment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CollectionsExample/docs/comment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enum/docs/comment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enum/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enum/src/main/java/EnumExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enum/src/main/java/EnumExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enum/src/main/java/EnumExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enum/src/main/java/Fruits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enum/src/main/java/Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enum/src/main/java/Monts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/docs/comment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiCLientServer/docs/comment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Threads/docs/comment" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java-Documents2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java-Documents2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AbstractClassExample" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractClassExample" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractClassExample/src/main/main5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientServer/src/main/main12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/main10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example/src/main/main8.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/src/main/main15.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example2" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Example2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/main1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/main/main13.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadArraySum/src/main/main7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/ThreadEx1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/src/main/java/threads/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/src/main/java/threads/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/src/main/java/threads/Thread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/src/main/main6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/src/main/main8.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/target/classes/threads/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/target/classes/threads/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx1/target/classes/threads/Thread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/ThreadEx2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/src/main/java/MyClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/src/main/java/Operation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/src/main/java/OperationImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/src/main/java/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/src/main/main2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/src/main/main4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/target/classes/META-INF/ThreadEx2.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/target/classes/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/target/classes/Operation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/target/classes/OperationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx2/target/classes/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/src/main/java/operation/Operation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/src/main/java/operation/OperationImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/src/main/java/operation/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/src/main/main14.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx3/src/main/main20.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/ThreadEx4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/src/main/java/operation/Operation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/src/main/java/operation/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/src/main/java/operation/Transactions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/src/main/java/operation/TransactionsImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/src/main/main12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx4/src/main/main9.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadEx5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadExample0" beforeDir="false" afterPath="$PROJECT_DIR$/Threads/ThreadExample0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadPoolExample" beforeDir="false" afterPath="$PROJECT_DIR$/Threads/ThreadPoolExample" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/src/main/main11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientServer/comment" beforeDir="false" afterPath="$PROJECT_DIR$/ClientServer/docs/comment" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/Enum/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Enum/src/main/java/EnumExample2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CollectionsExample/docs/comment">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClientServer/docs/comment">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inheritance/docs/comment">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MultiCLientServer/docs/comment">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Threads/docs/comment">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Varlik/src/main/java/varlik/model/Insanlar.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Varlik/src/main/java/varlik/InsanlarImpl.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Varlik/src/main/java/varlik/Insan.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AbstractClassExample/docs/comment">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CollectionsExample/src/main/java/javaExamples/TreeExample.java" />
+        <option value="$PROJECT_DIR$/Enum/pom.xml" />
+        <option value="$PROJECT_DIR$/Enum/src/main/java/Fruits.java" />
+        <option value="$PROJECT_DIR$/Enum/src/main/java/EnumExample.java" />
+        <option value="$PROJECT_DIR$/Enum/src/main/java/Level.java" />
+        <option value="$PROJECT_DIR$/Enum/src/main/java/EnumExample1.java" />
+        <option value="$PROJECT_DIR$/Enum/docs/Commit" />
+        <option value="$PROJECT_DIR$/Enum/src/main/java/Monts.java" />
+        <option value="$PROJECT_DIR$/Enum/src/main/java/EnumExample2.java" />
+        <option value="$PROJECT_DIR$/CollectionsExample/docs/Commit" />
+        <option value="$PROJECT_DIR$/ClientServer/docs/comment" />
+        <option value="$PROJECT_DIR$/AbstractClassExample/docs/comment" />
+        <option value="$PROJECT_DIR$/Inheritance/docs/comment" />
+        <option value="$PROJECT_DIR$/MultiCLientServer/docs/comment" />
+        <option value="$PROJECT_DIR$/Threads/docs/comment" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -102,28 +157,147 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractClassExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractClassExample" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientServer" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="CollectionsExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="CollectionsExample" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="Enum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="Enum" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="Inheritance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiCLientServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiCLientServer" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="Threads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="Varlik" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="Varlik" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="Varlik" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="Varlik" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="Varlik" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="varlik" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
+              <item name="Varlik" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="varlik" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555022236120" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555177821742" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-Documents" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Win10\Desktop\Java-Documents2\ClientServer\docs" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -137,7 +311,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EnumExample2">
+    <configuration name="EnumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumExample" />
+      <module name="Enum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumExample1" />
+      <module name="Enum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumExample2" />
+      <module name="Enum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TreeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaExamples.TreeExample" />
       <module name="Java-Documents2" />
@@ -153,6 +348,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnumExample2" />
+        <item itemvalue="Application.EnumExample1" />
+        <item itemvalue="Application.EnumExample" />
         <item itemvalue="Application.TreeExample" />
       </list>
     </recent_temporary>
@@ -168,56 +366,300 @@
       <option name="presentableId" value="Default" />
       <updated>1555021959502</updated>
       <workItem from="1555021960901" duration="40000" />
+      <workItem from="1555022039178" duration="340000" />
+      <workItem from="1555050997991" duration="1774000" />
+      <workItem from="1555172046102" duration="4518000" />
     </task>
+    <task id="LOCAL-00001" summary="Tree örneği eklendi">
+      <created>1555022265176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555022265176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40000" />
+    <option name="totallyTimeSpent" value="6672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="JRebel" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="JRebel Setup Guide" visible="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32850242" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tree örneği eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tree örneği eklendi" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MultiCLientServer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threads/ThreadArraySum/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threads/ThreadExample0/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threads/ThreadPoolExample/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientServer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractClassExample/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Enum/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CollectionsExample/src/main/java/javaExamples/TreeExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Enum/Enum.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Enum/src/main/java/EnumExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Enum/src/main/java/Level.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Enum/src/main/java/EnumExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Enum/docs/comment">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Enum/src/main/java/Fruits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Enum/src/main/java/Monts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CollectionsExample/docs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Enum/src/main/java/EnumExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractClassExample/docs/comment">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientServer/docs/comment">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance/docs/comment">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CollectionsExample/docs/comment">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultiCLientServer/docs/comment">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threads/docs/comment">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Varlik/src/main/java/varlik/InsanlarImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Varlik/src/main/java/varlik/Insan.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Varlik/src/main/java/varlik/model/Insanlar.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Enum</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,0 +1,16 @@
+                            ==== Multi Client Server ====
+
+  -- Bir veya birden fazla client(kullanıcı) bir server(sunucu) üzerinden birbirleriyle
+  veri iletisimi  yapma işlemi
+
+  -- Server gelen mesaj socketinden mejası alıyor ve tüm kullanıcılara iletiyor
+
+
+                                       --->  Özellikler  <---
+
+                           * Kullanıcı #OUT mesajı gönderdiği zaman odadan çıkış yapar.
+
+                           * Kullanıcı #LIST mesajı gönderdiği zaman aktif kullanıcılar listesini görebilir
+
+                           * Kullanıcı belirli kelimeleri mesajının icerisinde göndermeye çalıştığı zaman kullancıya hata
+                           mesajı verilir.

@@ -1,0 +1,19 @@
+               ====  Koleksiyonlar — Collections  ====
+
+   İçerisinde birden fazla nesne barındırabilen ve gerektiğinde nesne ekleme-silme gibi işlemlere
+imkan sağlayan bir başka nesnedir. Koleksiyonun içerisinde barındırdığı nesnelere koleksiyonun elemanları denir.
+Java koleksiyon çatısı altında 3 ana koleksiyon tipi sunmaktadır. SET, LIST, MAP ve yine bunlara ait aynı isimde
+3 interface bulunmaktadır. Bu interface-arabirimlerin nesneleri şunlardır:
+
+                    ----  Set Nesnesi  ----
+
+ Kendisine verilen elemanların her birinde sadece bir tanesini tutar. Kopya ya da
+tekrarlanan elemanları barındırmaz.
+
+                    ----  List Nesnesi ----
+
+ Kendisine verilen elemanları sıralı şekilde tutar. Tekrarlana elemanları barındırabilir.
+
+                    ----  Map Nesnesi  ----
+
+ Her biri birbirinden farklı anahtarlar ile eşleştirilen nesnelerden oluşur.

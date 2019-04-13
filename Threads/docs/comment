@@ -1,0 +1,58 @@
+
+                                     ====  Multithreading  =====
+
+  Çok akışlı ya da birden fazla iş parçacığı ile programlama denilebilir.
+  Yani bir programın, uygulamanın aynı anda birden fazla iş yapabilme yeteneğidir.
+  Çok akışlı programlama javanın bir kütüphanesi olmayıp yazılım dilinin temel özelliklerinden birisidir.
+  Thread, iş parçacığı uygulama içindeki yapılması gereken bir işlemin baştan sona eksizsiz yerine getirilmesidir.
+
+                                ---->  Thread sınıfının metotları <----
+
+                                        *** run metodu ***
+ Çok akışlılığı sağlamaktadır. Runable arabirimini uygulayan sınıflar bu metodu override etmektedir.
+
+                                        *** start metodu ***
+ Ana akıştan-işten farklı bir akış-iş parçacığı çağırır ve çağırılan iş parçacığını başlatır.
+
+                                        *** sleep metodu ***
+ Parametrede verilen milisaniye boyutundaki zaman aralığında app’nin duraksamasını sağlar.
+
+                                        *** yield metodu ***
+ iş parçacığının durdurulmasını ve diğer iş parçacığının çalışmasına izin vermek için kullanılır.
+
+                                        *** interrupt metodu ***
+ Uyuyan ve geçici olarak durdurulan iş parçacığını başlatmak için kullanılır.
+
+                                        *** join metodu   ***
+ Özel durumlar dışında iş parçacığı birbirinden bağımsız çalışır.Geçerli iş parçacığının diğer iş parçacıklarını
+ beklemesi için kullanılır.
+
+                                        *** isAlive metodu ***
+ İş parçacığının o anda çalışıp çalışmadığını kontrol eder.
+
+                                        *** setpriority metodu ***
+ Parametrede 1–10 arasında değer alabilir. Bu değer iş parçacığının çalışma önceliğini belirler.
+
+                                        *** getpriority metodu ***
+ Javanın hangi iş parçacığını daha önce çalıştırılacağını belirler. 1–10 arasında değer.
+
+
+                                      =====  Synchronization  ======
+
+  Bu anahtar kelime ile Java’ya ilgili kod parçacığına aynı anda sadece bir iş parçacığı erişebileceğini
+  ve diğerlerinin onu beklemesi gerektiğini söylüyoruz. Yani kod parçacığı çalıştırılacak ilk iş parçacığı
+  ilgili kod parçacığı üzerinde bir kilit sahibi olur. ve o iş parçacığı işini bitirmeden bu kilit açılmaz.
+
+                                          ---  Monitör ---
+
+  Bir nesneye erişimde eşzamanlama monitör mekanizması ile olur. Bir nesneye erişen her iş parçacığı monitörde sıraya alınır.
+  İşlem bittiğinde diğerleri sırayla erişime devam ederler. Bazı metotları bulunmaktadır. Bunlar;
+
+                                          --- wait()---
+  Senkronize edilmemiş(kilitlenmiş) bir durumun serbest kalması için beklemek için kullanılır.
+
+                                          --- notify()---
+  Kilit nesnenin serbest olduğunu bildirmek için kullanılır.
+
+                                          ---  notifyAll() ---
+  Kilitli nesnelerinin tümünün serbest olduğunu belirtmek için kullanılır.
