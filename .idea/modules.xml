@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Documents2.iml" filepath="$PROJECT_DIR$/.idea/Java-Documents2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Varargs/Varargs.iml" filepath="$PROJECT_DIR$/Varargs/Varargs.iml" />
     </modules>
   </component>
 </project>

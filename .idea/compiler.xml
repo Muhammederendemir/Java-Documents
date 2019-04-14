@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Enum" />
+        <module name="Varargs" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Enum" target="1.5" />
+      <module name="Varargs" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

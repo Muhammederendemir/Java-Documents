@@ -1,0 +1,14 @@
+
+
+
+                                   ----   Arguman (argument) -----
+
+                 Bir metodu cagirirken parantezler arasinda yazdigimiz ifadelerdir.
+
+                                   -----  Parametre(parameter) -----
+
+                 Bir metodu tanimlarken , nasil cagirilacagini belirttigimiz tanimladigimiz ifadeler ise parametredir.
+
+                                   ====== VARARGS =====
+
+                 Değişkenler, yöntemin sıfır veya birden fazla argüman kabul etmesine izin verir.
