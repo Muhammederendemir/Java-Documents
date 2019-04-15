@@ -2,219 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62498b13-040b-47df-8ae7-ae401d451c74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java EE/Maven/docs/comment" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java-Documents2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java-Documents2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractClassExample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientServer/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientServer/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientServer/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientServer/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientServer/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientServer/docs/comment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientServer/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientServer/src/main/java/clientServer/ClientC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientServer/src/main/java/clientServer/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientServer/src/main/java/clientServer/MessageImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientServer/src/main/java/clientServer/MessageThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientServer/src/main/java/clientServer/ServerC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientServer/src/main/main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/JavaExamples.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/docs/comment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/hash/LinkedHashMapExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/hash/LinkedHashMapExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/hash/LinkedHashMapRemoveExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/javaExamples/ColectionsBinarySearchTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/javaExamples/EqualsAndHasCodeExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/javaExamples/EqualsExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/javaExamples/EqualsExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/javaExamples/EqualsExample2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/javaExamples/HasCodeExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/javaExamples/HashSetExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/javaExamples/LinkedHashSetExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/javaExamples/TreeExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/arrayList/ArrayBinarySearchTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/arrayList/ArrayListAsListMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/arrayList/ArrayListExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/arrayList/ArrayListExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/arrayList/ArrayListMethodsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/arrayList/ArraySortTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/arrayList/ListSortTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/arrayList/MoreArrayListMethodstest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/linkedList/LinkedListExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/linkedList/QueueExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/linkedList/QueueExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/linkedList/QueueInteratingExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/linkedList/StackExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/linkedList/StackExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/list/linkedList/StackIteratingExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/java/set/HashSetExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/src/main/main1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/META-INF/JavaExamples.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/hash/LinkedHashMapExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/hash/LinkedHashMapExample1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/hash/LinkedHashMapRemoveExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/javaExamples/ColectionsBinarySearchTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/javaExamples/EqualsAndHasCodeExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/javaExamples/EqualsExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/javaExamples/EqualsExample1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/javaExamples/EqualsExample2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/javaExamples/HasCodeExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/javaExamples/HashSetExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/javaExamples/LinkedHashSetExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/arrayList/ArrayBinarySearchTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/arrayList/ArrayListAsListMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/arrayList/ArrayListExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/arrayList/ArrayListExample1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/arrayList/ArrayListMethodsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/arrayList/ArraySortTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/arrayList/ListSortTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/arrayList/MoreArrayListMethodstest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/linkedList/LinkedListExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/linkedList/QueueExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/linkedList/QueueExample1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/linkedList/QueueInteratingExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/linkedList/StackExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/linkedList/StackExample1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/list/linkedList/StackIteratingExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsExample/target/classes/set/HashSetExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/Enum.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/docs/comment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/src/main/java/EnumExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/src/main/java/EnumExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/src/main/java/EnumExample2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/src/main/java/Fruits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/src/main/java/Level.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/src/main/java/Monts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example/src/main/java/Kalitim/AltSinif.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example/src/main/java/Kalitim/AnaSinif.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example/src/main/java/Kalitimlar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example/src/main/main14.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/Kalitim1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/src/main/java/kalitim1/AltSinif.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/src/main/java/kalitim1/AnaSinif.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/src/main/java/kalitim1/KalitimI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/src/main/java/kalitim1/KalitimIImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/src/main/java/kalitim1/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/src/main/main3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/target/classes/kalitim1/AltSinif.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/target/classes/kalitim1/AnaSinif.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/target/classes/kalitim1/KalitimI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/target/classes/kalitim1/KalitimIImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example1/target/classes/kalitim1/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Example2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/docs/comment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/ex1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/java/BoolenDegisken.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/java/Char0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/java/DegiskenTurleri.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/java/Ex0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/java/Ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/java/Ex2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/java/IKisiBilgiler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/java/IcalisanBilgi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/java/Ogrenci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/java/TurDonusumu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/java/TurDonusumu1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/src/main/main10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/target/classes/BoolenDegisken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/target/classes/Char0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/target/classes/DegiskenTurleri.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/target/classes/Ex0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/target/classes/Ex1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/target/classes/Ex2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/target/classes/META-INF/ex1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/target/classes/TurDonusumu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/ex1/target/classes/TurDonusumu1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/MultiClientServer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/docs/comment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/main/java/com/multiclient/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/main/java/com/multiclient/ClientThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/main/java/com/multiclient/Docs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/main/java/com/multiclient/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/main/java/com/multiclient/MessageImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/main/java/com/multiclient/Server.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/main/java/com/multiclient/ServerThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/main/main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/main/main2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/out/production/main/com/multiclient/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/out/production/main/com/multiclient/ClientThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/out/production/main/com/multiclient/Docs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/out/production/main/com/multiclient/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/out/production/main/com/multiclient/MessageImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/out/production/main/com/multiclient/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiCLientServer/src/out/production/main/com/multiclient/ServerThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadArraySum/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadArraySum/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadArraySum/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadArraySum/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadArraySum/ThreadArraySum.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadArraySum/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadArraySum/src/main/java/Operantion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadArraySum/src/main/java/OperantionImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadArraySum/src/main/java/ThreadEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadArraySum/src/main/main10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadArraySum/src/main/main17.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadExample0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/ThreadPoolExample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads/docs/comment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varargs/Varargs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varargs/docs/comment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varargs/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varargs/src/main/java/Varargs/VarargsExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varargs/src/main/java/Varargs/VarargsExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/src/main/java/varlik/Insan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/src/main/java/varlik/InsanlarImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/src/main/java/varlik/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/src/main/java/varlik/model/Insanlar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/src/main/java/varlik/model/Varlik.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/src/main/main5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/target/classes/META-INF/Varlik.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/target/classes/varlik/Insan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/target/classes/varlik/InsanlarImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/target/classes/varlik/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/target/classes/varlik/model/Insanlar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varlik/target/classes/varlik/model/Varlik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/src/main/java/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/src/main/java/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/target/example-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/target/example-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/target/surefire-reports/TEST-example.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/target/surefire-reports/TEST-example.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/target/surefire-reports/example.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/target/surefire-reports/example.AppTest.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -234,37 +29,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java EE/Maven/mavenExample3/docs/comment">
+        <entry file="file://$PROJECT_DIR$/java EE/Maven/mavenExample3/example/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java EE/Maven/mavenExample2/mavenExample2/src/main/java/mavenExample2/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java EE/Maven/mavenExample3/example/src/main/java/example/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="663">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java EE/Maven/mavenExample3/example/pom.xml">
+        <entry file="file://$PROJECT_DIR$/java EE/Maven/mavenExample3/example/src/main/java/example/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="221">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -279,6 +56,8 @@
       <list>
         <option value="$PROJECT_DIR$/java EE/Maven/docs/comment" />
         <option value="$PROJECT_DIR$/java EE/Maven/mavenExample3/docs/comment" />
+        <option value="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/pom.xml" />
+        <option value="$PROJECT_DIR$/java EE/Maven/mavenExample3/example/src/main/java/example/App.java" />
       </list>
     </option>
   </component>
@@ -319,22 +98,6 @@
               <item name="java EE" type="462c0819:PsiDirectoryNode" />
               <item name="Maven" type="462c0819:PsiDirectoryNode" />
               <item name="mavenExample3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
-              <item name="java EE" type="462c0819:PsiDirectoryNode" />
-              <item name="Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenExample3" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Documents2" type="462c0819:PsiDirectoryNode" />
-              <item name="java EE" type="462c0819:PsiDirectoryNode" />
-              <item name="Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenExample3" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Documents2" type="b2602c69:ProjectViewProjectNode" />
@@ -396,7 +159,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555313570501" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555315723983" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -424,12 +187,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555311532736</updated>
-      <workItem from="1555311534642" duration="1486000" />
+      <workItem from="1555311534642" duration="3648000" />
     </task>
+    <task id="LOCAL-00001" summary="Maven denemesi eklendi">
+      <created>1555313623136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555313623137</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1486000" />
+    <option name="totallyTimeSpent" value="3648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -471,14 +242,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Maven denemesi eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maven denemesi eklendi" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java EE/Maven/docs/comment">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java EE/Maven/mavenExample3/docs/comment">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -493,17 +261,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java EE/Maven/mavenExample3/example/src/main/java/example/App.java">
+    <entry file="file://$PROJECT_DIR$/java EE/Maven/docs/comment">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="510">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java EE/Maven/mavenExample3/example/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="663">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java EE/Maven/mavenExample3/example/src/main/java/example/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
         </state>
       </provider>
     </entry>
