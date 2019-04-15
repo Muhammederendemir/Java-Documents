@@ -1,0 +1,24 @@
+
+                                          ====   LOGLAMA   ====
+
+         Loglama, bir uygulamanin(application) calisma zamanindaki(runtime) durumunu sistematik,kontrol edilebilir,
+         okunabilir sekilde saklama yontemidir. Loglamayi development, debug ve test sureclerinde kullanabiliriz.
+
+         Loglama kavraminda 3 onemli kavrami inceleyecek olursak;
+
+         Loglama , sistematik olmalidir.
+         Loglama, kontrol edilebilir olmalidir.
+         Loglama, bir uygulamanin durumunu aciklamalidir.
+
+
+         App.java dosyasınsa loglama kullanıddğım icin pom.xml dosyasına import etmem gerekmekte.
+
+         <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
+         <dependency>
+             <groupId>org.slf4j</groupId>
+             <artifactId>slf4j-api</artifactId>
+             <version>1.8.0-beta4</version>
+         </dependency>
+
+
+

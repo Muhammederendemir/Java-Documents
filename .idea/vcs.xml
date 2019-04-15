@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/AbstractClassExample" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Inheritance/Example2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Threads/ThreadExample0" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Threads/ThreadPoolExample" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java SE/AbstractClassExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java SE/Inheritance/Example2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java SE/Threads/ThreadExample0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java SE/Threads/ThreadPoolExample" vcs="Git" />
   </component>
 </project>
